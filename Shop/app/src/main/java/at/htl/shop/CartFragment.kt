@@ -21,3 +21,18 @@ class CartFragment : Fragment() {
 
 
 
+/*
+
+class CartFragment : Fragment() {
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        // inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_cart, container, false)
+    }
+
+}
+ */
